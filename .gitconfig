@@ -1,0 +1,9 @@
+[user]
+	name = Nuthan
+	email = nuthanknataraju@gmail.com
+[color]
+	ui = auto
+[core]
+	editor = Notepad
+[help]
+	autocorrect = 1
